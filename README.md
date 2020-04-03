@@ -18,5 +18,5 @@
 2. Now, run jupyter notebook and open the “ApplicationOfClustering.ipynb” notebook under this project.
 3. Examine the notebook and answer the questions along the way.
 
-**Question1:** Which K results in the highest SC?
+**Question1:** Which K results in the highest SC?       
 **Question2:** Which cluster size results in the highest SC?
